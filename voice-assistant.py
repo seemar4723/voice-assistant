@@ -25,10 +25,10 @@ translator = Translator()
 
 # API configuration
 API_CONFIG = {
-    'weather': 'b8963f3cdf1b88895c124f0236f7abed',
-    'dictionary_api_url': 'https://api.dictionaryapi.dev/api/v2/entries/en/',
-    'news_api_key': 'fcc923fe01d94e1c9e9eeeceb7dd8622',
-    'serpapi_key': 'ee4682a750c6b4767e85cd7039a5bac6db326fdb353828af24778e1ae2e1a6e9'  # Your SerpAPI key
+    'weather': '#your api key',
+    'dictionary_api_url': 'your api key',
+    'news_api_key': 'your api key',
+    'serpapi_key': 'your api key'  # Your SerpAPI key
 }
 
 # To-Do list storage
